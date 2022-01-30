@@ -1,0 +1,17 @@
+.card {
+    width: 450px;
+    height: 630px;
+    border-radius: 25px;
+    margin-top: 30px;
+}
+.form-check a {
+    text-decoration: none;
+}
+.form-check button {
+    background-color: #754ffe;
+    border: none;
+    outline: none;
+    margin-left: -22px;
+    text-align: center;
+    width: 350px;
+}

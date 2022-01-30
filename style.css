@@ -1,0 +1,33 @@
+.home {
+    padding: 0 120px;
+    height: 400px;
+    background-color: #754ffe!important;
+}
+.span {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 43px;
+    background-color: #ffeeda !important ;
+}
+.ml-3 {
+    margin-left: 15px !important;
+}
+.main {
+    border-radius: 15px;
+}
+.list {
+    list-style: none;
+}
+.card:hovar .card {
+    box-shadow: black;
+}
+.dropdown-item:hover {
+    color: #754ffe;
+    font-size: 16px;
+}
+.nav-item:hover {
+    color: #754ffe;
+    font-size: 17px;
+}

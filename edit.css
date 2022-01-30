@@ -1,0 +1,57 @@
+.card-top  img{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    height: 120px;
+}
+.card-bottom img {
+
+}
+.card {
+    width: 1100px;
+    height: 220px;
+    margin: auto;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.image img {
+    margin-top: -30px;
+    margin-left: 50px;
+    border: 6px solid white;
+}
+.box1 {
+    width: 290px;
+    margin-right: 20px;
+    height: 580px;
+    border-radius: 10px;
+}
+.box2 {
+    margin-left: 10px;
+    width: 810px;
+    height: 680px;
+    border-radius: 10px;
+}
+.ul-item {
+    margin: 20px 15px;
+    list-style: none;
+
+}
+.ul-item li {
+    padding: 7px;
+    height: 40px;
+    width: 180px;
+    border-radius: 12px;
+}
+.ul-item li:hover {
+    background-color: rgb(238, 227, 227);
+}
+.li-active {
+    color: rgb(182, 165, 165);
+    font-size: 14px;
+}
+.li-active2 {
+    background-color: rgb(235, 221, 221);
+}
+.list {
+    list-style: none;
+}
